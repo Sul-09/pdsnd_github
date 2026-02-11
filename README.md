@@ -6,9 +6,9 @@
 ### The goal of this project is to explore bikeshare datasets and perform data analysis
 
 ### Files used
-- bikeshare_starter.py - Main python script used to perform data analysis
-- new_york_city.csv - Data for New York City
-- README.md - Project Documentation
+* bikeshare_starter.py - Main python script used to perform data analysis
+* new_york_city.csv - Data for New York City
+* README.md - Project Documentation
 
 
 
